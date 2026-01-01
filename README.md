@@ -16,7 +16,7 @@ This project is made of 3 layers:
 ### Mid Price
 The fair price between buyers and sellers.
 
-
+$$
 \text{Mid Price} = \frac{\text{Best Bid} + \text{Best Ask}}{2}
 $$
 
